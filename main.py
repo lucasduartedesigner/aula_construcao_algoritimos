@@ -53,8 +53,8 @@ print(preco)
 print(type(preco))
 
 # Este é um exemplo para aula 2
-nome   = input('Informe o nome:')
-idade  = int(input('Informe a idade:'))
-cidade = input('Informe a cidade:')
+nome   = input('Informe o nome: ')
+idade  = int(input('Informe a idade: '))
+cidade = input('Informe a cidade: ')
 
-print(f'O nome do usuário é {nome}. O usuário tem {idade} anos e mora em {cidade}')
+print(f'\nO nome do usuário é {nome}. \nO usuário tem {idade} anos e mora em {cidade}')
